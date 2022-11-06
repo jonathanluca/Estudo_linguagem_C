@@ -34,11 +34,6 @@ int main(void)
    else
     printf("IMC: %.2f\tobesidade 3 grau", imc);
 
-
-
-
-
-
   system("pause");
   return 0;
 }
