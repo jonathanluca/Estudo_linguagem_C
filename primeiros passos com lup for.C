@@ -3,7 +3,6 @@
 
 int main ()
 {
-    //imprime o cabecalho do nosso jogo
     printf("Bem vindo ao programa de advinhacao:\n\n ");
 
     int numeroSecreto = 42;
